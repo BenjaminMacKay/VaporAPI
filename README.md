@@ -1,4 +1,4 @@
-# VaporDB
+# VaporAPI
 This is the code needed to run a VaporDB API. This project was created for CPSC 471 at the University of Calgary.
 This API was written in Python with Django over the course of the Winter semester of 2022.
 
