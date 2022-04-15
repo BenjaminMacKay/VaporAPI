@@ -15,4 +15,5 @@ To use this API:
 4. Followed by the command 'python manage.py runserver'
 5. (Optional) If you receive any warnings about migrations, your database does not include all tables necessary to run this django API. It is highly reccomended that you execute the migration command it provides before attempting to utilize this API.
 
-Documentation on how to use this API can be found here: https://documenter.getpostman.com/view/20376836/UVyvvEZA#aaddd2c6-285a-4ab7-a692-e02696d90e46
+Documentation on how to use this API can be found here:
+https://documenter.getpostman.com/view/20376836/UVyvvEZA#aaddd2c6-285a-4ab7-a692-e02696d90e46
