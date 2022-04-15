@@ -9,7 +9,7 @@ Requirements: Python 3.9.1 or newer, your database backend of choice.
 
 To use this API:
 
-1. Download the latest release and extract to a location of your choosing
+1. Download the code and extract to a location of your choosing
 2. In '/VaporAPI/settings.py' ensure that DATABASES has been configured for your database 
 3. In a terminal window execute the command '.venv/scripts/activate'
 4. Followed by the command 'python manage.py runserver'
